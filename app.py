@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title(" Plataforma de Reportes y Análisis de Datos")
+st.title("Plataforma de Reportes y Análisis de Datos")
 
 # ==========================
 # CARGA DE ARCHIVO
